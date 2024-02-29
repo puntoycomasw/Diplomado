@@ -1,4 +1,4 @@
-"Numero de trabajo","Oficina","Descripcion","Fecha","Tiempo_de_mantenimiento","Numero orden pago","Pagado en caja","Pagado con traspaso de cuenta","Equipos propios"
+"Numero de trabajo","Oficina","Descripcion","Fecha","Tiempo_de_mantenimiento","Numero orden pago","Pagado_en_caja","Pagado_con_traspaso_de_cuenta","Equipos_propios"
 "4457","Departamento de Química","Software","3/3/2020","3","13611","","30",""
 "4458","Laboratorio de Hidraulica","Software","3/4/2020","1","13612","","15",""
 "4459","Biblioteca FCYT","Hardware","3/11/2020","1","13614","","650",""
